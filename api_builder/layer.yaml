@@ -56,7 +56,7 @@ blocks:
     response_model: []
     route_name: prediction
     validation_enabled: true
-  status: 3
+  status: 1
   type: 8
   variables: null
   width: 800
@@ -74,7 +74,7 @@ blocks:
   name: Prediction
   parent_id: null
   properties: {}
-  status: 3
+  status: 1
   type: 1
   variables: null
   width: 800
@@ -82,12 +82,12 @@ blocks:
   y: 80
 edges:
 - canvas_id: 00129a74-8218-45e1-810b-816d87a972bc
-  id: ffe6dba3-c02b-4836-a399-37958cdcc5ea
-  layer_id: a5043301-9fe6-45a6-907a-c2643d0b2744
-  source: a64aa6b0-f112-4b72-8da3-3a7224a9416a
-  target: 5b197362-6042-4ffc-ba84-fce6f2a09938
-- canvas_id: 00129a74-8218-45e1-810b-816d87a972bc
   id: 9e250465-362b-47e1-b760-d9aad03238d8
   layer_id: a5043301-9fe6-45a6-907a-c2643d0b2744
   source: 5b197362-6042-4ffc-ba84-fce6f2a09938
   target: 931cf67f-4dc9-4aec-a8dc-73c4076429f8
+- canvas_id: 00129a74-8218-45e1-810b-816d87a972bc
+  id: ffe6dba3-c02b-4836-a399-37958cdcc5ea
+  layer_id: a5043301-9fe6-45a6-907a-c2643d0b2744
+  source: a64aa6b0-f112-4b72-8da3-3a7224a9416a
+  target: 5b197362-6042-4ffc-ba84-fce6f2a09938
